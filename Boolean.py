@@ -21,7 +21,7 @@ not (negação)
 """
 Tabela Verdade
 
-Utilizando o "E" (and)
+Utilizando o "E" (AND)
 
 Verdadeiro e Verdadeiro - True and True = True
 Verdadeiro e Falso - True and False = False
@@ -30,6 +30,7 @@ Falso e Falso - False and False = False
 
 """
 '''
+Utilizando o "OU" (OR)
 
 Verdadeiro ou Verdadeiro - True or True = True
 Verdadeiro ou Falso - True or False = True
@@ -44,5 +45,9 @@ onde podemos usar o OR e AND
 nome_usuario
 
 senha
+
+nome_usuario and senha
+
+Operador Logico "E" (END)
 
 '''
