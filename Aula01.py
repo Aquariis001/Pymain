@@ -2,4 +2,4 @@
 
 print('Olá Mundo')
 
-#Tipos de dados, str(Strings) dados de texto e int, float e complex (Numericos)
+# Tipos de dados, str(Strings) dados de texto e int, float e complex (Numericos)

@@ -15,7 +15,7 @@ y = 3
     Operador da subtrção -
     Operador da multiplicação *
     Operador divisão /
-      
+   
     Operador de resto %
     Operador da exponenciação **
     Operador da divisão inteira //
