@@ -1,9 +1,9 @@
 """
 
-Operadores Termais
+Operadores Ternais
 
 """
-
+"""
 x = 3
 y = 3
 
@@ -21,3 +21,25 @@ elif y == x:
 else:
     print("y é menor ou igual a x")
     print(y > x)
+"""
+
+
+a = 5
+b = 8
+c = 3
+"""
+
+if b > a:
+    print('b é maior que a')
+print('codigo fora do bloco if')
+
+"""
+
+"""
+print("B") if b > a else print("A") # Operador Ternário
+"""
+
+if a > b:
+    print('A')
+    if a > c:
+        print('A')       
