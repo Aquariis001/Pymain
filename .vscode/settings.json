@@ -17,7 +17,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Solarized Light",
+  "workbench.colorTheme": "Nature Rainbow Light",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
